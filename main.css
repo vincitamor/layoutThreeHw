@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.theStart {
+    margin-top: 5px;
+    height: 150px;
+    border: 3px solid red;
+}
+.fourArticles {
+    height: 400px;
+    border: 3px solid red;
+}
+.numOne {
+    width: 20%;
+    border-right: 3px solid red;
+}
+.numTwo {
+    width: 40%;
+    border-right: 3px solid red;
+}
+.numThree {
+    width: 20%;
+    border-right: 3px solid red;
+}
+.numFour {
+    width: 20%
+}
+.numOne,
+.numTwo,
+.numThree,
+.numFour {
+    height: 395px;
+    float: left;
+}
+.theEnd {
+    height: 130px;
+    border: 3px solid red;
+}
